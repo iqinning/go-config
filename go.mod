@@ -19,7 +19,7 @@ require (
 	github.com/micro/go-micro v1.1.0
 	github.com/pborman/uuid v1.2.0
 	go.etcd.io/etcd v3.3.12+incompatible
-	gocloud.dev v0.12.0
+	gocloud.dev v0.15.0
 	golang.org/x/net v0.0.0-20190420063019-afa5a82059c6
 	google.golang.org/grpc v1.20.1
 	k8s.io/api v0.0.0-20190313235455-40a48860b5ab
