@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/iqinning/go-config/source"
 	"github.com/micro/cli"
-	"github.com/micro/go-config/source"
 	"github.com/micro/go-micro/cmd"
 )
 

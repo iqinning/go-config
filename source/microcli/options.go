@@ -3,8 +3,8 @@ package microcli
 import (
 	"context"
 
+	"github.com/iqinning/go-config/source"
 	"github.com/micro/cli"
-	"github.com/micro/go-config/source"
 )
 
 type contextKey struct{}

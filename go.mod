@@ -1,4 +1,4 @@
-module github.com/micro/go-config
+module github.com/iqinning/go-config
 
 require (
 	cloud.google.com/go v0.37.4 // indirect
@@ -9,7 +9,7 @@ require (
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/protobuf v1.3.1
-	github.com/hashicorp/consul v1.4.5-0.20190327125850-f1fe406aa878
+	github.com/hashicorp/consul v1.4.5-0.20190327125850-f1fe406aa878 // indirect
 	github.com/hashicorp/consul/api v1.1.0
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/vault v1.1.0

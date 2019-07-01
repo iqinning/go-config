@@ -3,7 +3,7 @@ package url
 import (
 	"context"
 
-	"github.com/micro/go-config/source"
+	"github.com/iqinning/go-config/source"
 )
 
 type urlKey struct{}
